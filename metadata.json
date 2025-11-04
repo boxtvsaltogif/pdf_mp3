@@ -1,0 +1,5 @@
+{
+  "name": "PDF para Áudio",
+  "description": "Um aplicativo da web que converte arquivos PDF em áudio usando a API Gemini. Os usuários podem escolher entre várias vozes em português do Brasil, acompanhar o progresso da conversão e baixar automaticamente o arquivo de áudio resultante.",
+  "requestFramePermissions": []
+}
